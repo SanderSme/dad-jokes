@@ -1,0 +1,23 @@
+{
+  "name": "dad-jokes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanderSme/dad-jokes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanderSme/dad-jokes/issues"
+  },
+  "homepage": "https://github.com/SanderSme/dad-jokes#readme",
+  "description": "",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
+}
